@@ -5,7 +5,9 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 
 
  ## TO KNOW MORE
-    column 1         |  column 2 
+ 
+ 
+ |   column 1         |  column 2 
 |   ---------------  |   ---------------------------------------    |
 | **GROWTH MINDEST** | (https://farahasha.github.io/README.md/)     |
 | **MARAKDOWN**      | (https://farahasha.github.io/Reading-notes/) |
