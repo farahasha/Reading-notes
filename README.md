@@ -4,10 +4,16 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 
 
 
+
  ## TO KNOW MORE
  
+| **SUBJECT**          |  **LINK**                       |
+|   ---------------    |   ---------------------------------------    |
+| [**GROWTH MINDEST**] |  (https://farahasha.github.io/Reading-notes/GROWTH%20MINDEST.md)  |
+| [**MARAKDOWN**]      | (https://farahasha.github.io/Reading-notes/Marakdown.md) |
+|[**GIT**]             | ( https://farahasha.github.io/Reading-notes/git.md) |
 
-|   ---------------  |   ---------------------------------------    |
-| [**GROWTH MINDEST**] | (https://github.com/farahasha/README.md/blob/main/Growth%20Mindset.md)   |
-| [**MARAKDOWN**]  | (https://farahasha.github.io/Reading-notes/) |
-|[**ANON-TECHNICAL**]  | (https://github.com/farahasha/Reading-notes/blob/main/anon-technical%20friend.md) |
+*if you filling **lost** like me in the beginnig ;dont care at all ;
+you absolutely  be lost in **End**.
+
+
