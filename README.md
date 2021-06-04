@@ -10,14 +10,14 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 | **SUBJECT**          |  **LINK**                       |
 |   ---------------    |   ---------------------------------------    |
 <<<<<<< HEAD
-| [**GROWTH MINDEST**] |  ( https://farahasha.github.io/Reading-notes/GROWTH%20MINDEST )  |
-| [**MARAKDOWN**]      | ( https://farahasha.github.io/Reading-notes/Marakdown ) |
-|[**GIT**]             | ( https://farahasha.github.io/Reading-notes/git ) |
+| [**GROWTH MINDEST**] |  (  https://farahasha.github.io/Reading-notes/GROWTH%20MINDEST )  |
+| [**MARAKDOWN**]      | (   https://farahasha.github.io/Reading-notes/Marakdown ) |
+|[**GIT**]             | (   https://farahasha.github.io/Reading-notes/git ) |
 =======
 | [**GROWTH MINDEST**] |  (https://farahasha.github.io/Reading-notes/GROWTH%20MINDEST)  |
-| [**MARAKDOWN**]      | (https://farahasha.github.io/Reading-notes/Marakdown) |
+| [**MARAKDOWN**]      | (   https://farahasha.github.io/Reading-notes/Marakdown) |
 |[**GIT**]             | ( https://farahasha.github.io/Reading-notes/git) |
->>>>>>> c6f249eca496b89d76fb19053ef4c558b0be8622
+
 
 *if you filling **lost** like me in the beginnig ;dont care at all ;
 you absolutely  be lost in **End**.
