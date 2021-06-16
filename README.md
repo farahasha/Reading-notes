@@ -11,8 +11,12 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 |   ---------------    |   ---------------------------------------    
 | [**GROWTH MINDEST**] |  ( https://farahasha.github.io/Reading-notes/GROWTH%20MINDEST )  |
 | [**MARAKDOWN**]      | ( https://farahasha.github.io/Reading-notes/Marakdown ) |
-|[**GIT**]             | ( https://farahasha.github.io/Reading-notes/git ) |
-
+| [**GIT**]            | ( https://farahasha.github.io/Reading-notes/git ) |
+| [**WIREFRAME** ]     | (https://farahasha.github.io/Reading-notes/WIREFRAME ) |
+| [ **css**]           | (https://farahasha.github.io/Reading-notes/css ) |
+| [**function**]       |( https://farahasha.github.io/Reading-notes/function) |
+| [**java**]           | (https://farahasha.github.io/Reading-notes/java )|
+| [**loop**]           | (https://farahasha.github.io/Reading-notes/loop) |
 
 
 
