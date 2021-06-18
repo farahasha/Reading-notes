@@ -7,16 +7,17 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 
  ## TO KNOW MORE
  
-| **SUBJECT**          |  **LINK**                       |
-|   ---------------    |   ---------------------------------------    
-| [**GROWTH MINDEST**] |   https://farahasha.github.io/Reading-notes/GROWTH%20MINDEST  |
-| [**MARAKDOWN**]      |https://farahasha.github.io/Reading-notes/Marakdown  |
-| [**GIT**]            |  https://farahasha.github.io/Reading-notes/git  |
-| [**WIREFRAME** ]     | https://farahasha.github.io/Reading-notes/WIREFRAME  |
-| [ **css**]           | https://farahasha.github.io/Reading-notes/css |
-| [**function**]       | https://farahasha.github.io/Reading-notes/function |
-| [**java**]           | https://farahasha.github.io/Reading-notes/java |
-| [**loop**]           | https://farahasha.github.io/Reading-notes/loop |
+| Topic Number       | Article Title     | 
+| :----------------  | :---------------- | 
+|  1. | [Growth Mindset way of Thinking](https://farahasha.github.io/Reading-notes/GROWTH%20MINDEST)   |
+|  2. | [Marakdown](https://farahasha.github.io/Reading-notes/Marakdown)                 |
+| 3.  | [Git](https://farahasha.github.io/Reading-notes/git)                 |
+| 4.  | [WIREFRAME](https://farahasha.github.io/Reading-notes/WIREFRAME)   |
+| 5.  | [ JAVA](https://farahasha.github.io/Reading-notes/java)   |
+| 6.  | [loop](https://farahasha.github.io/Reading-notes/loop)                 |
+| 7.  | [CSS](https://farahasha.github.io/Reading-notes/css)   |
+| 8.  | [function](https://farahasha.github.io/Reading-notes/function)                 |
+
 
 
 
