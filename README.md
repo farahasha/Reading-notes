@@ -29,6 +29,20 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 | Class       | Class Title     | 
 | :----------------  | :---------------- | 
 | Reading 01 | [Introductory HTML and JavaScript]()  |
+|Reading 02 |             |
+|Reading 03|      |
+|Reading 04 |    |
+|Reading 05| |
+|Reading 06 | |
+|Reading 07| |
+|Reading 08| |
+|Reading 09| |
+|Reading 10||
+|Reading 11| |
+|Reading 12||
+|Reading 13| |
+|Reading 14 | |
+|Reading 15||
 
 
 
