@@ -35,7 +35,7 @@ we use :
 ### 1.5 : White Space
 
 ```html
-<p>The moon         is drifting away from Earth.</p>
+<p>THE BRIN WILL WIN ALL THE TIME.</p>
   ```
 
 ### 1.6 : Line Breaks Horizontal Rules
