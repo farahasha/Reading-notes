@@ -29,7 +29,7 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 | Class       | Class Title     | 
 | :----------------  | :---------------- | 
 | Reading 01 | [Introductory HTML and JavaScript]()  |
-|Reading 02 |      Basics of HTML,CSS & JS.md       |
+|Reading 02 |      https://farahasha.github.io/Reading-notes/basic-of      |
 |Reading 03|      |
 |Reading 04 |    |
 |Reading 05| |
