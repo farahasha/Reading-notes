@@ -77,3 +77,25 @@ function name(parameter1, parameter2, parameter3) {
 * When an event occurs (when a user clicks a button).
 * When it is invoked (called) from JavaScript code.
 * Automatically (self invoked).
+
+# 6 Reasons for Pair Programming
+Iterative loops. Code reviews. Fast feedback. Error checking and linting. These are software engineering practices that have proven to dramatically improve the quality of code developers produce. 
+pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together. 
+![link](https://kcrecruitment.com/wp-content/uploads/2019/02/Programmers-img-min.jpg)
+
+### How does pair programming work?
+While there are many different styles, pair programming commonly involves two roles: the Driver and the Navigator.The Driver is the programmer who is typing and the only one whose hands are on the keyboard.
+
+
+### Pair programming touches on all four skills: developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves.
+
+During a five-hour paired lab session, Code Fellows students work on all four of these language-specific skills. The abilities they foster will serve them well in completing assignments, in their own communication and learning, in interviews, and in readiness for a job at a company that utilizes this agile practice.
+
+Wow, all that? Let’s take a look!
+
+1. Greater efficiency
+2. Engaged collaboration
+3. Learning from fellow students
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
