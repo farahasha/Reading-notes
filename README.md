@@ -32,9 +32,9 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 |Reading 02 |      [basic-of](https://farahasha.github.io/Reading-notes/basic-of)      |
 |Reading 03|    [html list](https://farahasha.github.io/Reading-notes/read03)  |
 |Reading 04 |   [html link](https://farahasha.github.io/Reading-notes/read04) |
-|Reading 05| |
-|Reading 06 | |
-|Reading 07| |
+|Reading 05|[image](https://farahasha.github.io/Reading-notes/read%2005) |
+|Reading 06 |[object](https://farahasha.github.io/Reading-notes/read%2006) |
+|Reading 07| [HTML Tables JS Constructor Functions](https://farahasha.github.io/Reading-notes/lab7)|
 |Reading 08| |
 |Reading 09| |
 |Reading 10||
