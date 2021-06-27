@@ -35,7 +35,7 @@ person.getFullName = function () {
 ### Object initializer
 Objects can be initialized using new Object(), Object.create(), or using the literal notation (initializer notation). An object initializer is a comma-delimited list of zero or more pairs of property names and associated values of an object, enclosed in curly braces ({}).
 
-![object](https://1.bp.blogspot.com/-eHICkeDNwmg/XInHyvSvIVI/AAAAAAAAACs/VaP1WfL3LhYs2DgMxmdaLaq0F6bD_HCPACLcBGAs/s1600/definig%2Bwith%2Bkey%2Bvalue%2Bpair.JPG)
+![object]https://th.bing.com/th/id/OIP.uqyCPFSMHRcc6STe7FzSEQHaEj?pid=ImgDet&rs=1)
 
 --------------------------------------------------------------
 
