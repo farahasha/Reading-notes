@@ -35,7 +35,7 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 |Reading 05|[image](https://farahasha.github.io/Reading-notes/read%2005) |
 |Reading 06 |[object](https://farahasha.github.io/Reading-notes/read%2006) |
 |Reading 07| [HTML Tables JS Constructor Functions](https://farahasha.github.io/Reading-notes/lab7)|
-|Reading 08| |
+|Reading 08|[Layout](https://farahasha.github.io/Reading-notes/read8) |
 |Reading 09| |
 |Reading 10||
 |Reading 11| |
