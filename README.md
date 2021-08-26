@@ -25,7 +25,7 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 
 
 
-## ***NEXT LEVEL
+## ***NEXT LEVEL***
 
 ### ** Reading notes-CODE 201 **
 **Foundations of Software Development**
@@ -51,7 +51,7 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 
 
 
-## ***NEXT LEVEL
+## ***NEXT LEVEL***
 
 ### ** Reading notes-CODE 301 **
 **Intermediate Software Development**
@@ -61,7 +61,7 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 | :----------------  | :---------------- | 
 
 
-## ***NEXT LEVEL
+## ***NEXT LEVEL***
 
 ### ** Reading notes-CODE 401 **
 **Advanced Software Development**
@@ -72,6 +72,8 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 
 *if you filling **lost** like me in the beginnig ;dont care at all ;
 you absolutely  be lost in **End**.
+
+
 
 
 ![img](https://th.bing.com/th/id/R.48d6b432a7bb2a13e714dc76bd7be983?rik=WzpxbB%2bXxWNyiQ&riu=http%3a%2f%2fwww.techguide.com.au%2fwp-content%2fuploads%2f2018%2f11%2fSoftwareDev.jpg&ehk=dBG9dtqrJUdenwg%2fshQBuCoVNfrW3KdPh%2bH4AA3IYmI%3d&risl=&pid=ImgRaw&r=0)
