@@ -7,7 +7,7 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 
  ## TO KNOW MORE
  
-| Topic Number       | Article Title     | 
+|  Class  | Class Title     | 
 | :----------------  | :---------------- | 
 |  1. | [Growth Mindset way of Thinking](https://farahasha.github.io/Reading-notes/GROWTH%20MINDEST)   |
 |  2. | [Marakdown](https://farahasha.github.io/Reading-notes/Marakdown)                 |
