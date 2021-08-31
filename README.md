@@ -59,6 +59,10 @@ My name is farah asha, 27 years ago, finished class teacher from hashimea univer
 
 | Class       | Class Title     | 
 | :----------------  | :---------------- | 
+|Reading 1|[]()|
+|Reading 2|[]()|
+|Reading 3|[]()|
+|Reading 4|[]()|
 
 
 ## ***NEXT LEVEL***
